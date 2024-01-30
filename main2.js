@@ -11,7 +11,7 @@ function main (nums,target){
         if(suma== target) return true;
 
         if(suma> target){
-            r--;
+            right--;
         }
 
         else{
